@@ -1,0 +1,40 @@
+body {
+   font-family: Roboto, sans-serif;
+}
+
+/* p.error{
+   color: crimson;
+}
+
+p.sucess{
+   color: #4fdb4f;
+}
+
+p.sucess.feedback{   
+   border: 1px dashed #4fdb4f;
+}
+
+#content{
+   background-color: rgb(232, 234, 240);
+   padding: 20px;
+} */
+
+/* div p{
+   color: purple;
+} */
+
+a[href*="google"] {
+   background-color: royalblue;
+   color: white;
+   text-decoration: none;
+   text-transform: uppercase;
+   font-weight: bold;
+
+   padding: .625rem .875rem;
+   display: inline-block;
+}
+
+a[href$="ppsattos"]{
+   border: 1px dashed currentColor;
+   padding: .625rem .875rem;
+}
